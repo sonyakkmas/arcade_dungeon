@@ -1,7 +1,5 @@
 Dungeon-crawler project
 =======================
-#### *Author: Kan Sofia*
-
 ## Description
 
 The game takes place in the imaginary kingdom. The protagonist is tasked by the alchemist guild
